@@ -1,0 +1,26 @@
+emp_id,name,department,salary,experience_years,performance_rating
+EMP001,Aarav Sharma,Engineering,135000.0,7.5,4.8
+EMP002,Priya Patel,Data Science,142000.0,6.0,4.9
+EMP003,Rohan Verma,Product,115000.0,5.0,4.2
+EMP004,Ananya Iyer,Engineering,165000.0,11.0,4.7
+EMP005,Vikram Singh,Finance,95000.0,4.5,3.8
+EMP006,Neha Gupta,Marketing,88000.0,3.0,4.1
+EMP007,Kabir Reddy,Engineering,125000.0,6.5,4.5
+EMP008,Sanya Malhotra,HR,82000.0,4.0,4.6
+EMP009,Aditya Roy,Sales,105000.0,5.5,3.9
+EMP010,Tanvi Joshi,Product,138000.0,8.0,4.7
+EMP011,Karan Kapoor,Finance,152000.0,12.0,4.4
+EMP012,Rhea Desai,Data Science,120000.0,4.5,4.8
+EMP013,Arjun Nair,Engineering,78000.0,2.0,3.6
+EMP014,Ishita Sen,Marketing,110000.0,6.5,4.3
+EMP015,Manish Mehta,Sales,92000.0,3.5,4.0
+EMP016,Sneha Kulkarni,HR,98000.0,6.0,4.5
+EMP017,Dev Mukherjee,Engineering,180000.0,14.0,4.9
+EMP018,Meera Chopra,Product,99000.0,3.0,3.7
+EMP019,Yash Singhania,Finance,87000.0,2.5,3.9
+EMP020,Pooja Bansal,Data Science,160000.0,9.5,4.8
+EMP021,Rajesh Khanna,Sales,130000.0,8.5,4.2
+EMP022,Tara Sundaram,Engineering,102000.0,4.0,4.4
+EMP023,Gaurav Bhatt,Marketing,76000.0,1.5,3.5
+EMP024,Divya Menon,HR,112000.0,7.0,4.6
+EMP025,Siddharth Rao,Engineering,148000.0,8.5,4.7
