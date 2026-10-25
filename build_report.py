@@ -239,7 +239,7 @@ def build_document():
         "directly determine annual compensation increments, leadership promotions, and performance bonus pools. In such systems, two requirements "
         "are non-negotiable: algorithmic stability and worst-case predictability. For instance, when two software engineers share an identical "
         "performance rating of 4.8 out of 5.0, the ranking engine must maintain their preexisting seniority order rather than arbitrarily permuting "
-        "their records. Furthermore, financial audit regulations require appraisal pipelines to execute deterministically without suffering "
+        "their records. Additionally, strict audit standards require appraisal pipelines to execute deterministically without suffering "
         "from catastrophic quadratic degradation on duplicate-dense datasets."
     )
 
